@@ -3,7 +3,7 @@ package org.lzh.creational.factory;
 import org.lzh.creational.factory.ComputerFactory;
 import org.lzh.creational.factory.service.Computer;
 
-public class Customer {
+public class FactoryTest {
 
     public static void main(String[] args) {
 
